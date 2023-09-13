@@ -12,4 +12,5 @@
 {"title" : "What Hurts The Most","artist": "Rascal Flatts","favorite" : "true" }
 {"title" : "Here comes Goodbye","artist": "Rascal Flatts","favorite" : "true" },
 {"title" : "Over You","artist": "Daughtry","favorite" : "true" },
+{"title" : "Vindicated","artist": "Dashboard Confessional" },
 ]
